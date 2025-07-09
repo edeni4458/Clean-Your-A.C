@@ -1,0 +1,13 @@
+.mainbody-main-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    /* background-color: #282c34; */
+    margin-top: 10px;
+    border: solid 1px gray;
+    padding: 5px;
+
+}
+
